@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/status-finished-green?style=for-the-badge" alt="Status" />
 </div>
 
-## :memo: Executing the code
+## :computer: Executing the code
 First of all...
 
 You clone this repo:
